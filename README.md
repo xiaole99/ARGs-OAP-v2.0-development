@@ -5,7 +5,7 @@ Copyright: LG209, Environmental Microbiome Engineering and Biotechnology Laborat
 
 Author   : Xiaole Yin, email: sdulele@163.com
 
-Citation :
+Citation : Yin, X, X-T Jiang, B. Chai, L. Li, Y. Yang, J. R. Cole, J. M. Tiedje*, and T. Zhang*.(2018) "ARGs-OAP v2. 0 with an Expanded SARG Database and Hidden Markov Models for Enhancement Characterization and Quantification of Antibiotic Resistance Genes in Environmental Metagenomes." Bioinformatics 1:8. DOI:10.1093/bioinformatics/bty053
 
 To analyze metagenomic datasets through ARGs-OAP v2.0, please visit http://smile.hku.hk/SARGs
 
